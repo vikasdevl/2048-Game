@@ -1,3 +1,8 @@
+
+
+
+
+
 function createBoard() {
     const gridContainer = document.querySelector(".grid");
     for (let i = 0; i < 16; i++){
